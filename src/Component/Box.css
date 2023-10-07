@@ -1,6 +1,5 @@
 .leftbox,
 .rightbox {
-  border: 2px solid yellow;
   width: 50%;
   height: 100vh;
 }
